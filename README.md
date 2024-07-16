@@ -9,15 +9,11 @@ A simple Python-based console application to simulate an ordering system for Cri
 - Checkout with payment options (Credit/Debit card or Cash on delivery).
 - View your placed orders.
 
-## Demo
-
-You can view a live demo of the project [here](https://codesandbox.io/p/sandbox/github/technicalkundi/CodeAlpha_Age_Calculator/tree/main/?file=%2Findex.html).
-
 ## Installation
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/crispy-crust-ordering-system.git
+    git clone https://github.com/technicalkundi/Crispy-Crust-Online-Ordering-System-Python.git
     ```
 2. Navigate to the project directory:
     ```bash
